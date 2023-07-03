@@ -1,0 +1,37 @@
+/* src/App.css */
+
+/* Styles for the entire App */
+.App {
+    text-align: center;
+  }
+  
+  /* Heading styles */
+  .App h1 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 40px;
+  }
+  
+  /* Example button styles */
+  .App button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .App button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Example paragraph styles */
+  .App p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 20px;
+  }
+  
